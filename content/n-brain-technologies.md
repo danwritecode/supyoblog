@@ -1,0 +1,33 @@
+---
+title: "n brain technologies"
+description: "as computing technology gets more advanced, entire systems can no longer fit in one human's mind. n brain technologies emerge." 
+img: "https://storage.googleapis.com/pai-images/1e93f588e87a4c5aa6eb861a828c1435.jpeg"
+---
+### The Era of 1 Brain
+At the dawn of computing, entire computer systems could be held in a single human's mind. There were many humans who could see the entire picture and create new and better versions of the computer systems they were bringing to life. 
+
+Even as time progressed through the early decades of computing, systems were not yet so advanced as to render this impossible. From the 1960's MIT AI Lab hackers who wrote machine code and the first assemblers on the PDP-6, to the Homebrew computer club of Palo Alto in the 1970's. Throughout this time many legendary figures emerged who changed the course of computer technology forever.
+
+The legendary Altair computer kit made by MITS in a tiny office in a shitty strip mall. Bill Gates writing the first BASIC compiler for it. Woz building the Apple II on a 6502 plus parts scrounged together. A young John Carmack creating games on the Apple II with breakthrough innovations in graphics processing.  
+
+These were all 1 Brain technologies. Entire systems were still able to fit into a single human's mind and subsequently a single human could be responsible for entire paradigm shifts in technology. A single human could be the mad genius in their garage or basement, inhaling solder fumes late into the night for many many nights until their system came to life.
+
+### The Era of N Brain
+Times however have changed drastically over the last 50 years. Creating human altering technologies (a zero to one endeavor), more than not, requires N Brains. 
+
+This is not to say there aren't still 1 Brain technologies. Similarly, the new 1 Brain technologies aren't any less complex than the 1 Brain computer systems of the 70's. But proportionally, their influence on the world is many times smaller. 
+
+So how are new technologies that change the course of humanity created? With many 1 Brain ideas converging to a single point. You require N Brains. 
+
+And so there are now technology companies who coalesce N Brains in an attempt to perfectly orchestrate them to function as 1 Giant Brain. Creating systems, tools, and languages to bridge the gap between minds. Creating a hivemind without the innate interconnectedness that is actually required. 
+
+So how can technology entrepreneurs and computer hackers live up to their aspirations of these giants of the 70's, 80's and 90's? How can we figure out how to change the world with just our minds? Do we hunt for the increasingly few 1 Brain edge cases?
+
+### Technology Vs Products
+There is an important distinction here to be made between Technology and Products. Technologies are the underlying systems that make up Products.
+
+It is easier than ever to create 1 Brain products. In fact the mission of many of these technology companies has been to allow more brains than ever to create 1 Brain products. This is great, however products struggle to have the same outsized effect on the course of humanity as technologies.
+
+
+### Conclusion
+So I suppose we as creators are forced to choose a path. Do we want to create products or do we want to create new technologies? Undoubtedly the latter is a far more difficult undertaking and will require many more years of sacrifice, money, and coordination than the former. N Brains will be required.
