@@ -3,7 +3,7 @@
     <div class="mx-auto max-w-3xl grid grid-cols-1">
       <header class="">
         <h1 class="text-3xl font-black">dan's technoblabber</h1>
-        <p class="text-lg text-zinc-700">just babbling away about a variety of things</p>
+        <p class="text-lg text-zinc-700">babbling away about a variety of things</p>
       </header>
 
       <main class="mt-10 grid grid-cols-1 gap-y-6">
