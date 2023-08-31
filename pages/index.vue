@@ -20,5 +20,6 @@
 </template>
 
 <script setup lang="ts">
-const { data } = await useAsyncData('home', () => queryContent('/').find())
+const { data } = await useAsyncData('home', () => queryContent('/').sort({_file: -1}).find())
+
 </script>
