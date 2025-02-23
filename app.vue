@@ -1,8 +1,5 @@
 <template>
   <div>
-    <html class="h-full bg-zinc-300"></html>
-    <body class="h-full"></body>
-
     <NuxtPage />
   </div>
 </template>

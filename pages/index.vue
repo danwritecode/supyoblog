@@ -6,7 +6,7 @@
         <p class="text-lg text-zinc-700">babbling away about a variety of things</p>
       </header>
 
-      <main class="mt-10 grid grid-cols-1 gap-y-6">
+      <main class="mt-10 grid grid-cols-1 gap-y-8">
         <ArticleCard 
           v-for="article in data" 
           :title="article.title!" 

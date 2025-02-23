@@ -1,18 +1,11 @@
 <template>
-  <NuxtLink :to="props.path">
-    <div class="grid sm:grid-cols-2">
-      <div class="bg-zinc-800 p-4">
-        <h1 class="text-zinc-50 font-bold text-xl">{{ props.title }}</h1> 
-        <p class="mt-2 text-zinc-300">{{ props.description }}</p>
-      </div> 
-
+  <NuxtLink :to="props.path" class="relative group">
+    <span class="absolute -left-5 inset-y-0 border-zinc-900 transition-opacity duration-300 opacity-0 group-hover:opacity-100 group-hover:border-2"></span>
+    <div>
       <div>
-        <img 
-          :src="props.imgUrl" 
-          alt="article-img"
-          class="h-full sm:h-56 w-full object-cover"
-        >
-      </div>
+        <h1 class="text-zinc-900 font-bold text-xl">{{ props.title }}</h1> 
+        <p class="mt-2 text-zinc-600">{{ props.description }}</p>
+      </div> 
     </div>
   </NuxtLink>
 </template>
