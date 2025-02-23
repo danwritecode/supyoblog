@@ -1,7 +1,7 @@
 <template>
   <main class="py-10 px-4">
     <div class="mx-auto max-w-2xl">
-      <img :src="data!.img" alt="article image">
+      <!-- <img :src="data!.img" alt="article image"> -->
       <h1 class="mt-1 text-4xl font-black text-zinc-900">{{ data!.title }}</h1>
       <h1 class="mt-3text-xl text-zinc-700">{{ data!.description }}</h1>
     </div>
