@@ -15,7 +15,6 @@
 const props = defineProps<{
   title: string,
   description: string,
-  imgUrl: string,
   path: string
 }>()
 

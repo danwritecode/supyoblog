@@ -8,11 +8,10 @@
 
       <main class="mt-10 grid grid-cols-1 gap-y-8">
         <ArticleCard 
-          v-for="article in data" 
-          :title="article.title!" 
-          :description="article.description" 
-          :img-url="article.img" 
-          :path="article._path!"
+          v-for="post in posts" 
+          :title="post.title!" 
+          :description="post.description" 
+          :path="post.path!"
         />
       </main>
     </div>
@@ -20,6 +19,11 @@
 </template>
 
 <script setup lang="ts">
-const { data } = await useAsyncData('home', () => queryContent('/').sort({_file: -1}).find())
+const { data: posts } = await useAsyncData(() => {
+  return queryCollection('content')
+    .select('title', 'description', 'path', 'id')
+    .order('id', 'DESC')
+    .all()
+})
 
 </script>

@@ -4,9 +4,20 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss'
   ],
   content: {
-    markdown: {
-      anchorLinks: false
+    build: {
+      markdown: {
+        highlight: {
+          theme: {
+            // Default theme (same as single string)
+            default: 'github-light',
+            // Theme used if `html.dark`
+            dark: 'github-dark',
+            // Theme used if `html.sepia`
+            sepia: 'monokai'
+          }
+        }
+      }
     }
-    // https://content.nuxtjs.org/api/configuration
-  }
+  },
+  compatibilityDate: '2025-03-07'
 })
