@@ -4,7 +4,7 @@
       <h1 class="mt-1 text-4xl font-black text-zinc-900">{{ post!.title }}</h1>
       <h1 class="mt-3text-xl text-zinc-700">{{ post!.description }}</h1>
     </div>
-    <div class="mt-12 mx-auto max-w-2xl">
+    <div class="mt-10 mx-auto max-w-2xl">
       <ContentRenderer v-if="post" :value="post" />
     </div>
   </main>
